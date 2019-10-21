@@ -24,7 +24,7 @@ class Main {
 
 abstract class DiscountCards
 {
-    String name;
+    private String name;
     private int turnover;
     private double discountRate;
     private double purchaseValue;
